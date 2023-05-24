@@ -6,5 +6,5 @@
 - [removebg AI抠图，HD原尺寸](#removebg-ai抠图hd原尺寸)
 
 #### BigPic
-- Enlarge images without losing quality [Go](./mac/app/bigjpg/info.md)
+- Enlarge images without losing quality [Go](./mac/app/bigpic/info.md)
 
