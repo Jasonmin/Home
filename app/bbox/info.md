@@ -7,7 +7,7 @@
 
 ### Demo video
 <!-- mp4 -->
-<video id="video" controls="" preload="none" poster="">
+<video id="video" controls="" preload="none" poster="" width="800px">
       <source id="mp4" src="../../assets/play1080.mp4" type="video/mp4">
 </video>
 
