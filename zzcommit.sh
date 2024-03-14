@@ -20,5 +20,7 @@ git add .
 git commit -m "$message"
 
 # 拉取
+echo '==== pull'
 git pull
+echo '==== push'
 git push
