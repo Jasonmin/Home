@@ -1,29 +1,32 @@
 
 ### BatchBox
 - A convenient batch processing tool that includes removebg and some other useful tools, supporting both Windows and MacOS systems.
-<br>
 
-#### <font color=green>Instructions for Use</font>
+### Instructions for Use
 - Including removebg, high-quality Removebg, HD Removebg & Other Tools, you can freely choose when using
 
-### 演示视频
+### Demo video
 <!-- mp4 -->
 <video id="video" controls="" preload="none" poster="">
       <source id="mp4" src="../../assets/play1080.mp4" type="video/mp4">
-</videos>
+</video>
 
+### Product interface
 
-### 产品界面
+<center><img src="../../assets/img/1_tiny.png"></center>
 
+<center><img src="../../assets/img/2_tiny.png"></center>
 
-#### <font color=green>Download Address</font>
+<center><img src="../../assets/img/4_tiny.png"></center>
 
-#### [通用安装指南](../../univer/install.md)
+<center><img src="../../assets/img/5_tiny.png"></center>
 
-#### <font color=green>Trial Activation Code, Points Available:4</font>
+### Download Address
+
+### Free Trial Activation Code, Points Available: 4
 - fry45e2Dcz5i4Inic4HuDBv0p0c647ypxh4j0iM3jpMexLAXCCOBoOSV581b68dc
 
 
-#### <font color=green>Contact Me</font>
+### Contact Me
 - Email：stephenmtree@gmail.com
-- X:@stmtree
+- X: @stmtree
