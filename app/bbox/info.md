@@ -29,8 +29,15 @@
   - Windows   
 [https://github.com/Jasonmin/BatchBox/releases/download/v1.10.0/BatchBox-Win-1.10.0.exe](https://github.com/Jasonmin/BatchBox/releases/download/v1.10.0/BatchBox-Win-1.10.0.exe)
 
-### Free Trial Activation Code, Points Available: 4
+### Free Trial Activation Code, Credits Available: 4
 - fry45e2Dcz5i4Inic4HuDBv0p0c647ypxh4j0iM3jpMexLAXCCOBoOSV581b68dc
+
+### Price
+| Credits | US $ |
+| ------- | ---- |
+| 20      | 1    |
+| 100     | 3    |
+| 500     | 11    |
 
 
 ### Contact Me
