@@ -15,4 +15,4 @@
 - X: @stmtree
 
 ## <font color=green>Recommended</font>
-- BatchBox（Free Trail）- removebg ， [Show Detail](..//bbox/info)
+- BatchBox（Free Trail）- removebg ， [Show Detail](../bbox/info)
