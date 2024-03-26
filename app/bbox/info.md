@@ -33,11 +33,11 @@
 - fry45e2Dcz5i4Inic4HuDBv0p0c647ypxh4j0iM3jpMexLAXCCOBoOSV581b68dc
 
 ### Price
-| Credits | US $ |
-| ------- | ---- |
-| 20      | 1    |
-| 100     | 3    |
-| 500     | 11    |
+| Credits | US $ | Notice             |
+| ------- | ---- | ------------------ |
+| 20      | $1    | use before you buy |
+| 100     | $3    |                    |
+| 500     | $11   |                    |
 
 
 ### Contact Me
