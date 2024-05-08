@@ -2,8 +2,14 @@
 ### BatchBox
 - A convenient batch processing tool that includes removebg and some other useful tools, supporting both Windows and MacOS systems.
 
-### Instructions
-- Including removebg, high-quality Removebg, HD Removebg & Other Tools, you can freely choose when using
+### Tools Included
+- Remove Bg
+- TinyPNG
+- AI Image Enlarge
+- More...
+
+<!-- ### Instructions
+- Including removebg, high-quality Removebg, HD Removebg & Other Tools, you can freely choose when using -->
 
 ### Download Link
 - Release Page
