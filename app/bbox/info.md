@@ -36,13 +36,13 @@ If you’re unable to open it on a Mac, follow these steps: Go to System Prefere
 
 ### Product interface
 
-<center><img src="../../assets/img/1_tiny.png"></center>
+<center><img src="../../assets/img/1_tiny.png" width="500px"></center>
 
-<center><img src="../../assets/img/2_tiny.png"></center>
+<center><img src="../../assets/img/2_tiny.png" width="500px"></center>
 
-<center><img src="../../assets/img/4_tiny.png"></center>
+<center><img src="../../assets/img/4_tiny.png" width="500px"></center>
 
-<center><img src="../../assets/img/5_tiny.png"></center>
+<center><img src="../../assets/img/5_tiny.png" width="500px"></center>
 
 ### Price
 
@@ -54,5 +54,5 @@ If you’re unable to open it on a Mac, follow these steps: Go to System Prefere
 
 
 ### Contact Me
+- WA: https://wa.me/message/AGQC6XZINSEUA1
 - Email：stephenmtree@gmail.com
-- X: @stmtree
