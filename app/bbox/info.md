@@ -59,6 +59,6 @@ If you’re unable to open it on a Mac, follow these steps: Go to System Prefere
 Any question, Please feel free to contact me
 
 - Email：stephenmtree@gmail.com
-- WA: [WhatsApp](https://wa.me/message/AGQC6XZINSEUA1)
+- WhatsApp: [https://wa.me/message/AGQC6XZINSEUA1](https://wa.me/message/AGQC6XZINSEUA1)
 
 <center><img src="../../assets/wa/waqr.jpeg" width="500px"></center>
