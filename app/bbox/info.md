@@ -54,5 +54,7 @@ If you’re unable to open it on a Mac, follow these steps: Go to System Prefere
 
 
 ### Contact Me
-- WA: https://wa.me/message/AGQC6XZINSEUA1
 - Email：stephenmtree@gmail.com
+- WA: https://wa.me/message/AGQC6XZINSEUA1
+
+<center><img src="../../assets/wa/waqr.jpeg"></center>
