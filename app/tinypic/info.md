@@ -3,6 +3,9 @@
 - Easily batch compressing images
 <br>
 
+## <font color=green>Recommended</font>
+- BatchBox（Free Trail）- removebg ， [Show Detail](../bbox/info)
+
 ### <green>Feature
 - Automatically scan directories, one-click batch compression
 - Fast processing speed
@@ -15,7 +18,4 @@
 - Email: stephenmtree@gmail.com
 - WA: https://wa.me/message/AGQC6XZINSEUA1
 
-<center><img src="../../assets/wa/waqr.jpeg"></center>
-
-## <font color=green>Recommended</font>
-- BatchBox（Free Trail）- removebg ， [Show Detail](../bbox/info)
+<center><img src="../../assets/wa/waqr.jpeg" width="500px"></center>

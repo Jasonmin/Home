@@ -61,4 +61,4 @@ Any question, Please feel free to contact me
 - Email：stephenmtree@gmail.com
 - WA: https://wa.me/message/AGQC6XZINSEUA1
 
-<center><img src="../../assets/wa/waqr.jpeg"></center>
+<center><img src="../../assets/wa/waqr.jpeg" width="500px"></center>

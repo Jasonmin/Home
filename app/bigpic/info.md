@@ -4,6 +4,9 @@
 - Enlarge images without losing quality
 <br>
 
+## <font color=green>Recommended</font>
+- BatchBox（Free Trail）- removebg ， [Show Detail](../bbox/info)
+
 ### <green>Feature
 - Batch enlarging images losslessly, automatically scan directories, one-click processing 
 - Nice processing speed, nice effect
@@ -14,7 +17,4 @@
 - Email: stephenmtree@gmail.com
 - WA: https://wa.me/message/AGQC6XZINSEUA1
 
-<center><img src="../../assets/wa/waqr.jpeg"></center>
-
-## <font color=green>Recommended</font>
-- BatchBox（Free Trail）- removebg ， [Show Detail](../bbox/info)
+<center><img src="../../assets/wa/waqr.jpeg" width="500px"></center>
