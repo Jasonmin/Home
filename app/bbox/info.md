@@ -5,7 +5,8 @@
 ### Tools Included
 - Remove Bg
 - TinyPNG
-- AI Image Enlarge
+- TinyPic
+- AI Image Enlarge(BigPic)
 - More...
 
 <!-- ### Instructions
@@ -54,6 +55,9 @@ If you’re unable to open it on a Mac, follow these steps: Go to System Prefere
 
 
 ### Contact Me
+
+Any question, Please feel free to contact me
+
 - Email：stephenmtree@gmail.com
 - WA: https://wa.me/message/AGQC6XZINSEUA1
 
