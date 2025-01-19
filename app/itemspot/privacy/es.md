@@ -1,7 +1,7 @@
 <!--
  * @Author: qz
  * @Date: 2025-01-19 19:24:27
- * @LastEditTime: 2025-01-19 19:28:16
+ * @LastEditTime: 2025-01-19 21:10:09
 -->
 # Política de Privacidad
 
@@ -37,3 +37,9 @@ Usted puede:
 
 Si tiene alguna pregunta, contáctenos en:
 Email: stephenmtree@gmail.com 
+
+<style>
+    .navbar {
+        display: none;
+    }
+</style>

@@ -1,3 +1,8 @@
+<!--
+ * @Author: qz
+ * @Date: 2025-01-19 19:27:16
+ * @LastEditTime: 2025-01-19 21:11:07
+-->
 # Informativa sulla Privacy
 
 Grazie per utilizzare la nostra app. Questa informativa sulla privacy spiega come raccogliamo, utilizziamo e proteggiamo le tue informazioni personali.
@@ -31,4 +36,9 @@ Puoi:
 ## Contattaci
 
 Se hai domande, contattaci a:
-Email: stephenmtree@gmail.com 
+Email: stephenmtree@gmail.com   
+
+<style>
+    .navbar {
+        display: none;
+    }

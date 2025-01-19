@@ -32,3 +32,9 @@
 
 إذا كان لديك أي أسئلة، يرجى التواصل معنا على:
 Email: stephenmtree@gmail.com 
+
+<style>
+    .navbar {
+        display: none;
+    }
+</style>

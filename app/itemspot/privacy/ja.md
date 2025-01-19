@@ -32,3 +32,8 @@
 
 ご質問がございましたら、以下の連絡先までお問い合わせください：
 Email: stephenmtree@gmail.com 
+
+<style>
+    .navbar {
+        display: none;
+    }

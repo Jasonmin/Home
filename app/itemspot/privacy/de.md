@@ -1,3 +1,8 @@
+<!--
+ * @Author: qz
+ * @Date: 2025-01-19 19:26:22
+ * @LastEditTime: 2025-01-19 21:10:02
+-->
 # Datenschutzerklärung
 
 Vielen Dank für die Nutzung unserer App. Diese Datenschutzerklärung erläutert, wie wir Ihre persönlichen Daten erfassen, verwenden und schützen.
@@ -32,3 +37,9 @@ Sie können:
 
 Bei Fragen kontaktieren Sie uns bitte unter:
 Email: stephenmtree@gmail.com 
+
+<style>
+    .navbar {
+        display: none;
+    }
+</style>

@@ -32,3 +32,8 @@ Anda dapat:
 
 Jika Anda memiliki pertanyaan, silakan hubungi kami di:
 Email: stephenmtree@gmail.com 
+
+<style>
+    .navbar {
+        display: none;
+    }

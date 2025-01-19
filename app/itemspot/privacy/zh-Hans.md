@@ -1,6 +1,11 @@
 <!--
  * @Author: qz
  * @Date: 2025-01-19 19:20:00
+ * @LastEditTime: 2025-01-19 21:10:18
+-->
+<!--
+ * @Author: qz
+ * @Date: 2025-01-19 19:20:00
  * @LastEditTime: 2025-01-19 19:23:35
 -->
 
@@ -38,3 +43,9 @@
 
 如有任何问题，请通过以下方式联系我们：
 Email: stephenmtree@gmail.com
+
+<style>
+    .navbar {
+        display: none;
+    }
+</style>

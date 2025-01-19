@@ -1,3 +1,8 @@
+<!--
+ * @Author: qz
+ * @Date: 2025-01-19 19:27:56
+ * @LastEditTime: 2025-01-19 21:10:26
+-->
 # Gizlilik Politikası
 
 Uygulamamızı kullandığınız için teşekkür ederiz. Bu gizlilik politikası, kişisel bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.
@@ -32,3 +37,9 @@ Kişisel bilgilerinizi üçüncü taraflarla paylaşmıyoruz.
 
 Sorularınız için lütfen bizimle iletişime geçin:
 Email: stephenmtree@gmail.com 
+
+<style>
+    .navbar {
+        display: none;
+    }
+</style>

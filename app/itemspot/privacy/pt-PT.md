@@ -1,3 +1,8 @@
+<!--
+ * @Author: qz
+ * @Date: 2025-01-19 19:26:11
+ * @LastEditTime: 2025-01-19 21:10:41
+-->
 # Política de Privacidade
 
 Obrigado por utilizar a nossa aplicação. Esta política de privacidade explica como recolhemos, utilizamos e protegemos as suas informações pessoais.
@@ -32,3 +37,8 @@ Pode:
 
 Se tiver alguma questão, contacte-nos em:
 Email: stephenmtree@gmail.com 
+
+<style>
+    .navbar {
+        display: none;
+    }
