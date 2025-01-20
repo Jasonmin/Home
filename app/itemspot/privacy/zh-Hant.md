@@ -34,7 +34,7 @@
 Email: stephenmtree@gmail.com 
 
 <style>
-    .navbar {
+    a {
         display: none;
     }
 </style>
