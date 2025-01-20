@@ -1,5 +1,7 @@
 # 隱私政策
 
+
+
 感謝您使用我們的應用程式。本隱私政策說明我們如何收集、使用和保護您的個人信息。
 
 ## 信息收集和使用
@@ -34,7 +36,7 @@
 Email: stephenmtree@gmail.com 
 
 <style>
-    a {
+    h1:first-of-type {
         display: none;
     }
 </style>

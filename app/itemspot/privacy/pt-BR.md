@@ -34,6 +34,6 @@ Se você tiver alguma dúvida, entre em contato conosco em:
 Email: stephenmtree@gmail.com 
 
 <style>
-    .navbar {
+    h1:first-of-type {
         display: none;
     }

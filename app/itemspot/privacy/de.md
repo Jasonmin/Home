@@ -39,7 +39,7 @@ Bei Fragen kontaktieren Sie uns bitte unter:
 Email: stephenmtree@gmail.com 
 
 <style>
-    .navbar {
+    h1:first-of-type {
         display: none;
     }
 </style>

@@ -1,5 +1,5 @@
 
 /* 隐藏首页导航 */
-.navbar {
+h1:first-of-type {
     display: none;
 }

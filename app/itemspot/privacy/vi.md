@@ -34,7 +34,7 @@ Nếu bạn có câu hỏi, vui lòng liên hệ chúng tôi tại:
 Email: stephenmtree@gmail.com 
 
 <style>
-    .navbar {
+    h1:first-of-type {
         display: none;
     }
 </style>
