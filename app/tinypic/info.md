@@ -3,9 +3,6 @@
 - Easily batch compressing images
 <br>
 
-## <font color=green>Recommended</font>
-- BatchBox（Free Trail）- removebg ， [Show Detail](../bbox/info)
-
 ### <green>Feature
 - Automatically scan directories, one-click batch compression
 - Fast processing speed

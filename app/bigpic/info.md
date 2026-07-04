@@ -4,9 +4,6 @@
 - Enlarge images without losing quality
 <br>
 
-## <font color=green>Recommended</font>
-- BatchBox（Free Trail）- removebg ， [Show Detail](../bbox/info)
-
 ### <green>Feature
 - Batch enlarging images losslessly, automatically scan directories, one-click processing 
 - Nice processing speed, nice effect
